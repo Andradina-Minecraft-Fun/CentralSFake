@@ -10,5 +10,7 @@ customMotd: |2-
 ```
 
 `minFakePlayers` is the minimum fake players to show
+
 `maxFakePlayers` is the maximum fake players to show
+
 `customMotd` custom motd to show, suporting colors
