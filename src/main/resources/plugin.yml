@@ -1,0 +1,16 @@
+name: CentralSFake
+main: br.com.centralandradina.centralsfake.main
+version: 0.1
+depend: 
+  - ProtocolLib
+commands:
+  cfpo:
+    description: 
+    usage: 
+    permission: central.fake
+    
+permissions:
+  central.fake:
+    description: Allows central fake players command
+    default: op
+    
